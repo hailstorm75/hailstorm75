@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">A .NET developer from Prague</h3>
 
-- 🔭 I’m currently working on [MarkDoc.Core](https://github.com/hailstorm75/MarkDoc.Core)
+- 🔭 I’m currently working on [ModularDoc](https://github.com/hailstorm75/ModularDoc)
 
 - 🌱 I’m currently learning **ReactJs, TypeScript, Dynamics 365**
 
-- 🤝 I’m looking for survey participants for my thesis [MarkDoc.Thesis](https://github.com/hailstorm75/MarkDoc.Thesis)
-
-- 👨‍💻 All of my projects are available at [https://github.com/hailstorm75](https://github.com/hailstorm75)
+- 🤝 I’m looking for survey participants for my thesis [ModularDoc.Thesis](https://github.com/hailstorm75/ModularDoc.Thesis)
 
 - 💬 Ask me about **.NET, SOLID principles, or anything**
 
