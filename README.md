@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJs, TypeScript, Dynamics 365**
 
-- 🤝 I’m looking for survey participants for my thesis [ModularDoc.Thesis](https://github.com/hailstorm75/ModularDoc.Thesis)
-
 - 💬 Ask me about **.NET, SOLID principles, or anything**
 
 - 📫 How to reach me **Discord: Deno#6548**
